@@ -16,14 +16,23 @@ make
 examples for each message:
 
 REGISTER dan 1234 12-01-1999
+
 LOGIN dan 1234 1
+
 LOGOUT
+
 FOLLOW 0 dan
+
 FOLLOW 1 dan
+
 POST hi!
+
 PM dan hi!
+
 STAT dan|shay|may
+
 LOGSTAT
+
 BLOCK dan
 
 filter words: field named :filteredWords at
